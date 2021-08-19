@@ -3,6 +3,7 @@
 
 - `I'm Loc (kayy0812)`
 -  _Nothing is Impossible_ (F8 Slogan)
+-  Nhiều khi tôi nản lắm, bỏ cũng nhiều project rồi, nhưng tôi không chấp nhận như vậy, để xem thực lực tôi có loại bỏ tật xấu này không <3
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?logo=html5&logoColor=ffffff)
