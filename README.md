@@ -1,7 +1,9 @@
 # README
 ### Hello Everyone 👋
 
-- `I'm Loc (kayy0812)`
+- `Full Name: Le Van Loc`
+- I love myself, my world and everyone
+- ^_^
 -  _Nothing is Impossible_
 
 #### Frontend
