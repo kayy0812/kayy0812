@@ -1,10 +1,8 @@
 # README
 ### Hello Everyone 👋
 
-- `Full Name: Le Van Loc`
-- I love myself, my world and everyone
-- ^_^
--  _Nothing is Impossible_
+- `: Le Van Loc :`
+- [About Me](https://kayy0812.github.io/about-me/)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?logo=html5&logoColor=ffffff)
