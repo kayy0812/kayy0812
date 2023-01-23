@@ -1,5 +1,5 @@
 # README PLEASE :3
-### Hello Everyone 👋
+### Hello :v 👋
 
 - run and run pls, haha
 
